@@ -1,0 +1,44 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "School",
+            "username": "bkour10",
+            "password": "0886223666",
+            "database": "Test"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "School",
+            "username": "bkour10",
+            "password": "0886223666",
+            "database": "Test"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "School",
+            "username": "bkour10",
+            "password": "0886223666",
+            "database": "bkour10"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "School",
+            "database": "bkour10",
+            "username": "bkour10"
+        }
+    ]
+}
