@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Currently BS/MS Computer Science student at SUNY Poly. <br>I believe in the leverage of open-source and new technologies is key to solving world problems.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bunla-kour-4227b2165) 
 
 # 💻 Tech Stack:
