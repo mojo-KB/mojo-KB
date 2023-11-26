@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 💫 About Me:
-Currently BS/MS Computer Science student at SUNY Poly. <br>I believe in the leverage of open-source and new technologies is key to solving world problems.
+https://bunlakour.dev
 
 
 ### 🌐 Socials:
